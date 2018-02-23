@@ -25,5 +25,9 @@
     "htmlmin",
     "keep",
     "slash"
-  ]
+  ],
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-htmlmin": "^4.0.0"
+  }
 }
